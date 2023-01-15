@@ -1,3 +1,3 @@
 const colors = require('colors');
 
-console.log('Hello, World!'.zebra);
+console.log('Hello, World!'.zalgo);
