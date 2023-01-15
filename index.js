@@ -1,3 +1,3 @@
 const colors = require('colors');
 
-console.log('Hello, World!'.random);
+console.log('Hello, World!'.zebra);
